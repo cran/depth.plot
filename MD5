@@ -1,0 +1,11 @@
+8ac3c5fefe6d72babf9dc3e5b165269a *DESCRIPTION
+912312ef5819ec2314de1a6effc7fba9 *NAMESPACE
+0e3ae59e312d6a2d010614d3668668d8 *R/dd.plot.R
+0657333ede3eece83771156d0e94f9ae *R/spatial.depth.R
+96eab26e431fd6390450f5104b93fef4 *R/spatial.outlier.R
+b0292774723fe8e6d35698fd4b58698e *R/spatial.rank.R
+5c7cda57849d5bf7c62d1f31e438a80e *man/dd.plot.Rd
+63b5dad677e2e81ada9a74f45f9aa1ad *man/multi.quant.Rd
+b560b98388b930e06eca39f1c75eef45 *man/spatial.depth.Rd
+a00d450651d7ad64b6d9eed5c67fe358 *man/spatial.outlier.Rd
+0ad9847b77915346920a8b37aec861a9 *man/spatial.rank.Rd
